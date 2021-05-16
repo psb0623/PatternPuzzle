@@ -26,4 +26,4 @@ apk 형식으로, 스마트폰이나 에뮬레이터 등 안드로이드 환경�
 
 (참고 : 스마트폰과 연결하여 사용할 때 스마트폰에서 [설정] - [개발자 옵션] - [USB 디버깅] 허용 필요)
 
-그 외 : [android.processing.org](android.processing.org) (Processing for Android 공식 사이트)
+그 외 : [https://android.processing.org](https://android.processing.org) (Processing for Android 공식 사이트)
