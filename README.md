@@ -1,13 +1,6 @@
 # PatternPuzzle
 
-[실행 파일]
-
-apk 형식으로, 스마트폰이나 에뮬레이터 등 안드로이드 환경에서 설치 가능
-(설치 시 '출처를 알 수 없는 앱' 허용하여야 함)
-
-[작품 소스]
-
-소스코드는 작품 소스\PatternPuzzle\PatternPuzzle.pde 파일에 있음
+소스코드는 PatternPuzzle.pde 파일에 있음
 
 이를 읽기만 하는 것은 메모장 등 텍스트 편집기로도 가능, 
 그러나 수정 후 빌드하기 위해서는 Processing 및 Processing for Android 설치 필요
