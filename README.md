@@ -1,5 +1,7 @@
 # PatternPuzzle
 
+[apk 파일 다운로드](https://drive.google.com/file/d/1mvCL7baBkupEZmJL8qPH6mdyElp1Wu3R/view?usp=sharing)<<<
+
 소스코드는 PatternPuzzle.pde 파일에 있음
 
 이를 읽기만 하는 것은 메모장 등 텍스트 편집기로도 가능, 
